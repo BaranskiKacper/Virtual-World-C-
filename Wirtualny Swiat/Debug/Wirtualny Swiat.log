@@ -1,0 +1,28 @@
+﻿  Antylopa.cpp
+  BarszczSosnowskiego.cpp
+  Czlowiek.cpp
+  Guarana.cpp
+  Komentator.cpp
+  Lis.cpp
+  main.cpp
+C:\Users\kacpe\Desktop\Witualny Swiat C++\Wirtualny Swiat\main.cpp(12,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Mlecz.cpp
+  Organizm.cpp
+  Owca.cpp
+  Roslina.cpp
+  Swiat.cpp
+C:\Users\kacpe\Desktop\Witualny Swiat C++\Wirtualny Swiat\Swiat.cpp(166,16): warning C4244: 'initializing': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+C:\Users\kacpe\Desktop\Witualny Swiat C++\Wirtualny Swiat\Swiat.cpp(256,25): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+C:\Users\kacpe\Desktop\Witualny Swiat C++\Wirtualny Swiat\Swiat.cpp(256,50): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  Trawa.cpp
+  WilczeJagody.cpp
+  Wilk.cpp
+  Zolw.cpp
+  Zwierze.cpp
+  Generating Code...
+C:\Users\kacpe\Desktop\Witualny Swiat C++\Wirtualny Swiat\Swiat.cpp(182): warning C4715: 'Swiat::znajdzCzlowieka': not all control paths return a value
+  Wirtualny Swiat.vcxproj -> C:\Users\kacpe\Desktop\Witualny Swiat C++\Wirtualny Swiat\Debug\Wirtualny Swiat.exe
